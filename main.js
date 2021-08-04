@@ -1,5 +1,5 @@
 import {createElement, Component, render} from './toy-react'
-
+//
 class Square extends Component{
 
     render(){
